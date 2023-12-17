@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "593271303318",
+    "firebase_url": "https://infinitestore-596de-default-rtdb.firebaseio.com",
+    "project_id": "infinitestore-596de",
+    "storage_bucket": "infinitestore-596de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593271303318:android:59c1f81aae1e4a533666b7",
+        "android_client_info": {
+          "package_name": "com.example.infinitestore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcH9PYr13HyXzrlRyucQIn79vRuQ34Il8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
